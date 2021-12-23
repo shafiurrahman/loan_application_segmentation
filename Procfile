@@ -1,0 +1,1 @@
+web: gunicorn loan_segmentation:app
